@@ -2,7 +2,7 @@
  * @Author: MuXia
  * @Date: 2022/09/16
  */
-import { segment } from "oicq";
+import { segment } from "icqq";
 import plugin from "../../lib/plugins/plugin.js";
 
 /**
