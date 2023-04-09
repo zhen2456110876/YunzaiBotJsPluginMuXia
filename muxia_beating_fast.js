@@ -2,7 +2,7 @@
  * @Author: MuXia
  * @Date: 2022/09/21
  */
-import { segment } from "oicq";
+import { segment } from "icqq";
 import BotCfg from "../../lib/config/config.js";
 import plugin from "../../lib/plugins/plugin.js";
 
