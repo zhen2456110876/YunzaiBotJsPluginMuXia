@@ -5,7 +5,7 @@
 import { createRequire } from "module";
 import fetch from "node-fetch";
 import schedule from "node-schedule";
-import { Group, segment } from "oicq";
+import { Group, segment } from "icqq";
 import common from "../../lib/common/common.js";
 import plugin from "../../lib/plugins/plugin.js";
 const require = createRequire(import.meta.url);
